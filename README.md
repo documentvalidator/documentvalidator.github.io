@@ -1,4 +1,4 @@
-# 📄 Document Validator | Валідатор Документів
+# 📄 Document Validator
 
 A web-based application for scanning DOCX documents and validating Ukrainian city/town names against customizable white and black lists.
 
